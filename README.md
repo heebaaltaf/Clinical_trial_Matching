@@ -1,6 +1,6 @@
 # Clinical_trial_Matching
 
-# 🧠 Clinical Trial Matching AI
+
 
 This project builds an intelligent agentic system to match real-world patient records with clinical trials from [ClinicalTrials.gov](https://clinicaltrials.gov/). It uses multiple NLP techniques and large language models (LLMs) to extract patient data, semantically filter trials, and generate explainable match decisions.
 
